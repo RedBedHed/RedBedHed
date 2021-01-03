@@ -1,6 +1,6 @@
 # Ellie Moore
-### *Associates In Science 2020 - Mesa Community College*
-### *B.S. Computer Science 2023 - Ira A. Fulton Schools of Engineering at Arizona State University*
+### *Associates In Science - 2020 - Mesa Community College*
+### *B.S. Computer Science - 2023 - Ira A. Fulton Schools of Engineering at Arizona State University*
 #### 📫 Reach Me: emoore23@asu.edu
 #### 😄 Pronouns: She/Her
 #### ⚡ Fun Fact: I love Java!
