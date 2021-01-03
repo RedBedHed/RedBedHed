@@ -2,9 +2,10 @@
 ##### *Associate In Science - 2020 - Mesa Community College*
 ##### *B.S. Computer Science - 2023 - Ira A. Fulton Schools of Engineering - Arizona State University*
 #### 📫 Reach Me: emoore23@asu.edu
+#### 🌱 Learning: C++, Python, Javascript
 #### 😄 Pronouns: She/Her
-#### ☕ Fun Fact: I love Java!
-#### ⚡ Interests: Design Patterns, Operating Systems, Artificial Intelligence, and Data Structures.
+#### ☕ Fun Fact: I love Java
+#### ⚡ Interests: Design Patterns, Operating Systems, Artificial Intelligence, and Data Structures
 
 <!--
 **RedBedHed/RedBedHed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
