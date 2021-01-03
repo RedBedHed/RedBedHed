@@ -1,4 +1,5 @@
-### Hi there 👋
+#Ellie Moore
+###*Software Engineering Student - Undergraduate - Arizona State University*
 
 <!--
 **RedBedHed/RedBedHed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
