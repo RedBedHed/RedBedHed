@@ -1,5 +1,5 @@
 # About Me
-#### 📫 Reach Me: emoore23@asu.edu
+#### 📫 Reach Me At: emoore23@asu.edu
 #### 💬 Ask Me About: Anything Java-related
 #### 🌱 Learning: C++, Python, Javascript
 #### 😄 Pronouns: She/Her
