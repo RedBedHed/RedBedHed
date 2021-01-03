@@ -1,5 +1,6 @@
 # Ellie Moore
-### *Software Engineering Student - Undergraduate - Ira A. Fulton Schools of Engineering - Arizona State University*
+## *Arizona State University*
+### *Software Engineering Student - Undergraduate - Ira A. Fulton Schools of Engineering
 #### 📫 Reach Me: emoore23@asu.edu
 #### 😄 Pronouns: She/Her
 #### ⚡ Fun Fact: I love Java!
