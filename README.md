@@ -1,5 +1,8 @@
-#Ellie Moore
-###*Software Engineering Student - Undergraduate - Arizona State University*
+# Ellie Moore
+### *Software Engineering Student - Undergraduate - Arizona State University*
+#### 📫 Reach Me: emoore23@asu.edu
+#### 😄 Pronouns: She/Her
+#### ⚡ Fun Fact: I love Java!
 
 <!--
 **RedBedHed/RedBedHed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
