@@ -5,7 +5,7 @@
 #### 😄 Pronouns: She/Her
 #### ☕ Fun Fact: I love Java
 #### ⚡ Interests: Design Patterns, Operating Systems, Artificial Intelligence, Data Structures
-##### *Ellie Moore*
+#### *Ellie Moore*
 ###### *Associate In Science - 2020 - Mesa Community College*
 ###### *B.S. Computer Science - 2023 - Ira A. Fulton Schools of Engineering - Arizona State University*
 
