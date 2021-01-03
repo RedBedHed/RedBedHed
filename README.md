@@ -8,6 +8,7 @@
 ###### *Ellie Moore*
 ###### *Associate In Science - 2020 - Mesa Community College*
 ###### *B.S. Computer Science - 2023 - Ira A. Fulton Schools of Engineering - Arizona State University*
+![JTET](/images/JTet.gif)
 
 <!--
 **RedBedHed/RedBedHed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
