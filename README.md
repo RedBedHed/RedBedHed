@@ -11,6 +11,7 @@
 # Favorite Projects
 ## [Tetris](https://github.com/RedBedHed/Tetris) 
 ![JTET](JTet.gif)
+![JSudoku](Su.gif)
 
 <!--
 **RedBedHed/RedBedHed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
