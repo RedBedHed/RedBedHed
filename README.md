@@ -7,7 +7,7 @@
 #### 💬 Ask Me About: Anything Java-related
 #### 🌱 Learning: C++, Python, Javascript
 #### 👾 Pronouns: She/Her
-#### ☕ Fun Fact: I love Java
+#### ☕ Fun Fact: I love Java almost as much as I love coffee!
 #### ⚡ Interests: Design Patterns, Operating Systems, Artificial Intelligence, Data Structures
 # Favorite Projects
 ## [Tetris (2021)](https://github.com/RedBedHed/Tetris) 
