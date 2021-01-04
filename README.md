@@ -1,13 +1,13 @@
 # About Me
+###### *Ellie Moore*
+###### *Associate In Science - 2020 - Mesa Community College*
+###### *B.S. Computer Science - 2023 - Ira A. Fulton Schools of Engineering - Arizona State University*
 #### 📫 Reach Me At: emoore23@asu.edu
 #### 💬 Ask Me About: Anything Java-related
 #### 🌱 Learning: C++, Python, Javascript
 #### 😄 Pronouns: She/Her
 #### ☕ Fun Fact: I love Java
 #### ⚡ Interests: Design Patterns, Operating Systems, Artificial Intelligence, Data Structures
-###### *Ellie Moore*
-###### *Associate In Science - 2020 - Mesa Community College*
-###### *B.S. Computer Science - 2023 - Ira A. Fulton Schools of Engineering - Arizona State University*
 # Favorite Projects
 ## [Tetris (2021)](https://github.com/RedBedHed/Tetris) 
 ![JTET](JTet.gif)
