@@ -11,6 +11,8 @@
 # Favorite Projects
 ## [Tetris](https://github.com/RedBedHed/Tetris) 
 ![JTET](JTet.gif)
+## [Chess](https://github.com/RedBedHed/Grey-Sky-Chess) 
+![JChess](Chess.gif)
 ## [Sudoku](https://github.com/RedBedHed/Sudoku) 
 ![JSudoku](Su3.gif)
 
