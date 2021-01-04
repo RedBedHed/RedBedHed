@@ -1,5 +1,5 @@
 # About Me
-#### 😄 Name: **Ellie Moore**
+#### 😄 Name: **Ellie**
 #### 📜 Degree:
 > + ###### *Associate In Science - 2020 - Mesa Community College*
 > + ###### *B.S. Computer Science - 2023 - Ira A. Fulton Schools of Engineering - Arizona State University*
