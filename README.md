@@ -1,6 +1,6 @@
 # About Me
 #### 😄 Name: **Ellie**
-#### 📜 Education: In Progress
+#### 📚 Education: In Progress
 > + ###### *Associate In Science - Mesa Community College - Completed in 2020*
 > + ###### *B.S. Computer Science - Ira A. Fulton Schools of Engineering - Arizona State University - By 2023*
 #### 📫 Reach Me At: emoore23@asu.edu
