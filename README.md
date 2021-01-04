@@ -8,7 +8,7 @@
 #### 🌱 Learning: C++, Python, Javascript
 #### 👾 Pronouns: She/Her
 #### ☕ Fun Fact: I love Java almost as much as I love coffee!
-#### ⚡ Interests: Design Patterns, Operating Systems, Artificial Intelligence, Data Structures
+#### ⚡ Interests: Math, Physics, Design Patterns, Operating Systems, Artificial Intelligence, Data Structures, Algorithms
 # Favorite Projects
 ## [Tetris (2021)](https://github.com/RedBedHed/Tetris) 
 ![JTET](JTet.gif)
