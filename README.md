@@ -5,7 +5,7 @@
 > + ###### *B.S. Computer Science - Ira A. Fulton Schools of Engineering - Arizona State University - By 2023*
 #### 📫 Reach Me At: emoore23@asu.edu
 #### 💬 Ask Me About: Anything Java-related
-#### 🌱 Learning: C++, Python, Javascript
+#### 🌱 Learning: C++, Assembly, Javascript, Python
 #### 👾 Pronouns: She/Her
 #### ☕ Fun Fact: I love Java almost as much as I love coffee!
 #### ⚡ Interests: Math, Physics, Design Patterns, Operating Systems, Artificial Intelligence, Data Structures, Algorithms
