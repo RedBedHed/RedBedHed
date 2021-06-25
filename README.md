@@ -10,6 +10,8 @@
 #### ☕ Fun Fact: I love Java almost as much as I love coffee!
 #### ⚡ Interests: Math, Physics, Design Patterns, Operating Systems, Artificial Intelligence, Data Structures, Algorithms
 # Favorite Projects
+## [Bit Tac Toe (2021)](https://github.com/RedBedHed/BitTacToe)
+![BitTacToe](BitTacToe.gif)
 ## [Tetris (2021)](https://github.com/RedBedHed/Tetris) 
 ![JTET](JTet.gif)
 ## [Chess (2020)](https://github.com/RedBedHed/Grey-Sky-Chess) 
