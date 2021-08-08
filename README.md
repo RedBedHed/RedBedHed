@@ -14,7 +14,5 @@
 ![JTET](JTet.gif)
 ## [Bit Tac Toe (2021)](https://github.com/RedBedHed/BitTacToe)
 ![BitTacToe](BitTacToe.gif)
-## [Chess (2020)](https://github.com/RedBedHed/Grey-Sky-Chess) 
-![JChess](Chess.gif)
 ## [Sudoku (2019)](https://github.com/RedBedHed/Sudoku) 
 ![JSudoku](Su3.gif)
