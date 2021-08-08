@@ -11,9 +11,9 @@
 #### ⚡ Interests: Math, Physics, Design Patterns, Operating Systems, Artificial Intelligence, Data Structures, Algorithms
 #### (I dump lots of code on here... Most of it is pretty bad... Read at your own risk!)
 # Favorite Projects
-## [Tetris (2021)](https://github.com/RedBedHed/Tetris) 
-![JTET](JTet.gif)
 ## [Bit Tac Toe (2021)](https://github.com/RedBedHed/BitTacToe)
 ![BitTacToe](BitTacToe.gif)
+## [Tetris (2020)](https://github.com/RedBedHed/Tetris) 
+![JTET](JTet.gif)
 ## [Sudoku (2019)](https://github.com/RedBedHed/Sudoku) 
 ![JSudoku](Su3.gif)
