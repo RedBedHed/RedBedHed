@@ -12,7 +12,7 @@
 #### (I dump lots of code on here... Most of it is pretty bad... Read at your own risk lol)
 # Favorite Projects
 ## [Charon Perft (2021)](https://github.com/RedBedHed/Charon)
-###### *A stockfish (and lc0) derived chess move-generator.*
+#### *A stockfish (and lc0) derived chess move-generator.*
 ## [Bit Tac Toe (2021)](https://github.com/RedBedHed/BitTacToe)
 ![BitTacToe](BitTacToe.gif)
 ## [Tetris (2020)](https://github.com/RedBedHed/Tetris) 
