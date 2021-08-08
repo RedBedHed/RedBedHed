@@ -9,6 +9,7 @@
 #### 👾 Pronouns: She/Her
 #### ☕ Fun Fact: I love Java almost as much as I love coffee!
 #### ⚡ Interests: Math, Physics, Design Patterns, Operating Systems, Artificial Intelligence, Data Structures, Algorithms
+#### (I dump lots of code on here... Most of it is pretty bad... Read at your own risk!)
 # Favorite Projects
 ## [Tetris (2021)](https://github.com/RedBedHed/Tetris) 
 ![JTET](JTet.gif)
