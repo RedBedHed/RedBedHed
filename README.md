@@ -13,7 +13,6 @@
 # Favorite Projects
 ## [Charon Perft (2021)](https://github.com/RedBedHed/Charon)
 #### **A stockfish (and lc0) derived chess move-generator.**
-### These are Charon's perft results !!!
 ###### *(single-threaded, 1.6 ghz i5, strictly-legal moves only.)*
  <pre>
   <code>
