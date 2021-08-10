@@ -55,5 +55,3 @@
 ![BitTacToe](BitTacToe.gif)
 ## [Tetris (2020)](https://github.com/RedBedHed/Tetris) 
 ![JTET](JTet.gif)
-## [Sudoku (2019)](https://github.com/RedBedHed/Sudoku) 
-![JSudoku](Su3.gif)
