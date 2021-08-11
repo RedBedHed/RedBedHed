@@ -16,6 +16,7 @@
 ###### *(single-threaded, 1.6 ghz i5, strictly-legal moves only.)*
  <pre>
   <code>
+
      @@@    @@
    @@   @@  @@
   @@        @@ @@@      @@@@    @@ @@@      @@@@    @@ @@@
@@ -59,7 +60,7 @@
         perft(3) -  0.000 seconds -       8902 nodes visited.
         perft(4) -  0.000 seconds -     197281 nodes visited.
         perft(5) -  0.016 seconds -    4865609 nodes visited.
-        perft(6) -  0.516 seconds -  119060324 nodes visited.
+        perft(6) -  0.406 seconds -  119060324 nodes visited.
         
 ~^*^~._.~^*^~._.~^*^~._.~^*^~._.~^*^~._.~^*^~._.~^*^~._.~^*^~.
  </code>
