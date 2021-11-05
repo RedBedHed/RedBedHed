@@ -68,7 +68,21 @@
  </code>
 </pre> 
 ## [Bit Tac Toe (Optimized late 2021)](https://github.com/CS-Cafe/BitTacToe)
-![BitTacToe](BitTacToe2.gif)
+<pre>
+ <code>
+        - | - | o
+       ---+---+---
+        - | x | -
+       ---+---+---
+        - | - | -
+       I took 0.000127 seconds!
+       Make a move (1-9)
+       9 8 7
+       6 5 4
+       3 2 1
+       >>_
+ </code>
+</pre>
 ## [Bit Tac Toe (2021)](https://github.com/RedBedHed/BitTacToe)
 ![BitTacToe](BitTacToe.gif)
 ## [Tetris (2020)](https://github.com/RedBedHed/Tetris) 
