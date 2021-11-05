@@ -67,6 +67,8 @@
 ~^*^~._.~^*^~._.~^*^~._.~^*^~._.~^*^~._.~^*^~._.~^*^~._.~^*^~.
  </code>
 </pre> 
+## [Bit Tac Toe (Optimized late 2021)](https://github.com/CS-Cafe/BitTacToe)
+![BitTacToe](BitTacToe2.gif)
 ## [Bit Tac Toe (2021)](https://github.com/RedBedHed/BitTacToe)
 ![BitTacToe](BitTacToe.gif)
 ## [Tetris (2020)](https://github.com/RedBedHed/Tetris) 
