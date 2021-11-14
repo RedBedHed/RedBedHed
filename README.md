@@ -1,4 +1,4 @@
-[![Header](https://github.com/RedBedHed/RedBedHed/6190a89dc89bf.jpg "Header")]
+![Header](6190a89dc89bf.jpg)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=RedBedHed.RedBedHed)
 ![]
