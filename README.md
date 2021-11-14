@@ -9,13 +9,10 @@
  
 #### 😄 Name: **✨Ellie✨**
 #### 📚 Education: In Progress
-> + ###### *Associate In Science - Mesa Community College - Completed in 2020*
-> + ###### *B.S. Computer Science - Ira A. Fulton Schools of Engineering - Arizona State University - By 2023*
+> ###### *Associate In Science - Mesa Community College - Completed in 2020*
+> ###### *B.S. Computer Science - Ira A. Fulton Schools of Engineering - Arizona State University - By 2023*
 #### 📫 Reach Me At: emoore23@asu.edu
-#### 💬 Ask Me About: Anything Java-related
-#### 🌱 Learning: C++, Assembly, Javascript, Python
 #### 👾 Pronouns: She/Her
-#### ☕ Fun Fact: I love Java almost as much as I love coffee!
 #### ⚡ Interests: Math, Physics, Design Patterns, Operating Systems, Artificial Intelligence, Data Structures, Algorithms
 #### (I dump lots of code on here... Most of it is pretty bad... Read at your own risk lol)
  
