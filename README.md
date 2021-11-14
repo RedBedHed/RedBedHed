@@ -1,6 +1,6 @@
-![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=tokyonight)
+![](https://visitor-badge.laobi.icu/badge?page_id=RedBedHed.RedBedHed)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedBedHed&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RedBedHed&show_icons=true&theme=tokyonight)
 # About Me
 #### 😄 Name: **✨Ellie✨**
 #### 📚 Education: In Progress
