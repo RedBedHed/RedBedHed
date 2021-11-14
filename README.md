@@ -20,16 +20,16 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedBedHed&theme=tokyonight" />
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RedBedHed&show_icons=true&theme=tokyonight" />
  <a href= "https://github.com/RedBedHed/Charon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=Charon&theme=tokyonight" />
  </a>
  <a href= "https://github.com/CS-Cafe/BitTacToe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=CS-Cafe/BitTacToe&theme=tokyonight" />
  </a>
  <a href= "https://github.com/CS-Cafe/BitCheckers">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=CS-Cafe/BitCheckers&theme=tokyonight" />
  </a>
  <a href= "https://github.com/RedBedHed/BitTacToe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=BitTacToe&theme=tokyonight" />
  </a>
 <p>
 
