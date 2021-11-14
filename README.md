@@ -49,8 +49,7 @@
 #### **A stockfish (and lc0) inspired move generator for the game of chess.**
 ###### *(single-threaded, 1.6 ghz i5, strictly-legal moves only.)*
  
- <p align="center">
- <pre>
+ <pre align="center">
   <code>
 
      @@@    @@
@@ -103,12 +102,10 @@
 ~^*^~._.~^*^~._.~^*^~._.~^*^~._.~^*^~._.~^*^~._.~^*^~._.~^*^~.
  </code>
 </pre> 
-</p>
 
 ## [Bit Tac Toe (Optimized late 2021)](https://github.com/CS-Cafe/BitTacToe)
 
-<p align="center">
-<pre>
+<pre align="center">
  <code>
         - | - | o
        ---+---+---
@@ -123,7 +120,6 @@
        >>_
  </code>
 </pre>
-<p>
  
 ## [Bit Tac Toe (2021)](https://github.com/RedBedHed/BitTacToe)
 ![BitTacToe](BitTacToe.gif)
