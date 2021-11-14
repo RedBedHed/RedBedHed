@@ -39,7 +39,7 @@
  <a href= "https://github.com/CS-Cafe/BitCheckers">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=Tetris&theme=tokyonight" />
  </a>
- <a href= "https://github.com/RedBedHed/BitTacToe">
+ <a href= "https://github.com/RedBedHed/SneK">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=SneK&theme=tokyonight" />
  </a>
 <p>
