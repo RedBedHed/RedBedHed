@@ -25,7 +25,7 @@
  
 </p>
 
-#### 🔌 Pins and Stats
+#
 
 <p align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedBedHed&theme=tokyonight" />
