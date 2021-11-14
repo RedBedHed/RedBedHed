@@ -16,7 +16,7 @@
 
 # Statistics
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=RedBedHed&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedBedHed&theme=tokyonight" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=RedBedHed&show_icons=true&theme=tokyonight" />
 
 # Languages
