@@ -1,6 +1,6 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=RedBedHed.RedBedHed)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedBedHed&theme=tokyonight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RedBedHed&show_icons=true&theme=tokyonight)
+![]
+
 # About Me
 #### 😄 Name: **✨Ellie✨**
 #### 📚 Education: In Progress
@@ -13,8 +13,15 @@
 #### ☕ Fun Fact: I love Java almost as much as I love coffee!
 #### ⚡ Interests: Math, Physics, Design Patterns, Operating Systems, Artificial Intelligence, Data Structures, Algorithms
 #### (I dump lots of code on here... Most of it is pretty bad... Read at your own risk lol)
+# Statistics
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedBedHed&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RedBedHed&show_icons=true&theme=tokyonight)
 # Languages
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c++/c++.png" alt="C++" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+</p>
 # Favorite Projects
 ## [Charon Perft (2021)](https://github.com/RedBedHed/Charon)
 #### **A stockfish (and lc0) inspired move generator for the game of chess.**
