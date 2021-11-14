@@ -2,6 +2,9 @@
 ![]
 
 # About Me
+
+<p align="center">
+ 
 #### 😄 Name: **✨Ellie✨**
 #### 📚 Education: In Progress
 > + ###### *Associate In Science - Mesa Community College - Completed in 2020*
@@ -13,8 +16,10 @@
 #### ☕ Fun Fact: I love Java almost as much as I love coffee!
 #### ⚡ Interests: Math, Physics, Design Patterns, Operating Systems, Artificial Intelligence, Data Structures, Algorithms
 #### (I dump lots of code on here... Most of it is pretty bad... Read at your own risk lol)
+ 
+</p>
 
-# Statistics
+# 🔌 Pins and Stats
 
 <p align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedBedHed&theme=tokyonight" />
@@ -33,7 +38,7 @@
  </a>
 <p>
 
-# Languages
+# 🛠️ Languages
  
  <p align="center"> 
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" height="40" style="vertical-align:top;    margin:4px">
