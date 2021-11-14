@@ -50,7 +50,7 @@
 ###### *(single-threaded, 1.6 ghz i5, strictly-legal moves only.)*
  
  <pre>
-  <code align="center">
+  <code>
 
      @@@    @@
    @@   @@  @@
@@ -105,7 +105,7 @@
 
 ## [Bit Tac Toe (Optimized late 2021)](https://github.com/CS-Cafe/BitTacToe)
 
-<pre align="center">
+<pre>
  <code>
         - | - | o
        ---+---+---
