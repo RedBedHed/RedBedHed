@@ -30,7 +30,6 @@
 <p align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedBedHed&theme=tokyonight" />
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RedBedHed&show_icons=true&theme=tokyonight" />
- <img align="center" src="https://github-readme-stats.vercel.app/api/line-count/?username=RedBedHed&show_icons=true&theme=tokyonight" />
  <a href= "https://github.com/RedBedHed/Charon">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=Charon&theme=tokyonight" />
  </a>
