@@ -49,8 +49,8 @@
 #### **A stockfish (and lc0) inspired move generator for the game of chess.**
 ###### *(single-threaded, 1.6 ghz i5, strictly-legal moves only.)*
  
- <pre align="center">
-  <code>
+ <pre>
+  <code align="center">
 
      @@@    @@
    @@   @@  @@
