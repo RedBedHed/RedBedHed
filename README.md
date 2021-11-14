@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/RedBedHed/RedBedHed/6190a89dc89bf.jpg "Header")](https://martinheinz.dev/)
+[![Header](https://github.com/RedBedHed/RedBedHed/6190a89dc89bf.jpg "Header")]
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=RedBedHed.RedBedHed)
 ![]
