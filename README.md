@@ -44,7 +44,7 @@
  
 <h1 align="center" id="favorite-projects"><strong>💖 Favorite Projects</strong></h1>
  
-<a href="https://github.com/RedBedHed/Charon">
+<a href= "https://github.com/RedBedHed/Charon">
  <h2 align="center" id="charon-perft-2021">
   <strong>Charon Perft (2021)</strong>
  </h2>
@@ -108,7 +108,7 @@
   </code>
  </pre> 
 
-<a href="https://github.com/RedBedHed/Tetris">
+<a href= "https://github.com/RedBedHed/Tetris">
  <h2 align="center" id="tetris-2020">
   <strong>Tetris (2020)</strong>
  </h2>
