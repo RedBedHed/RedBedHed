@@ -13,7 +13,7 @@
 
 # **✨About Ellie✨**
 
-<p align="center">
+# hello
  
 #### 📚 Education: In Progress
  
@@ -28,8 +28,6 @@
 #### ⚡ Interests: Math, Physics, Design Patterns, Operating Systems, Artificial Intelligence, Data Structures, Algorithms
  
 #### (I dump lots of code on here... Most of it is pretty bad... Read at your own risk lol)
- 
-</p>
 
 # 📈 Statistics
 
