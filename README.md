@@ -1,21 +1,22 @@
 ![Header](Tokyo.jpg)
 
 <p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=RedBedHed.RedBedHed&logoColor=white&color=2bbc8a"></img>
-<img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a"></img>
-<img src="https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a"></img>
-<img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a"></img>
-<img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a"></img>
-<img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a"></img>
-<img src="https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a"></img>
-<img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a"></img>
-<img src="https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a"></img>
-<img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a"></img>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=RedBedHed.RedBedHed&logoColor=white&color=2bbc8a" />
+<img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a" />
+<img src="https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a" />
+<img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a" />
+<img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a" />
+<img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a" />
+<img src="https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a" />
+<img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a" />
+<img src="https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a" />
+<img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a" />
 </p>
 
-# **✨About Ellie✨**
- 
-#### 📚 Education: In Progress
+<h1 align="center" id="about-ellie"><strong>✨About Ellie✨</strong></h1>
+
+<h4 id="-education-in-progress">📚 Education: In Progress</h4>
+
 > ###### *Associate In Science - Mesa Community College - Completed in 2020*
 > ###### *B.S. Computer Science - Ira A. Fulton Schools of Engineering - Arizona State University - By 2023*
 #### 📫 Reach Me At: emoore23@asu.edu
