@@ -11,8 +11,6 @@
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
-#
-
 # **✨About Ellie✨**
 
 <p align="center">
@@ -34,8 +32,6 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RedBedHed&show_icons=true&theme=tokyonight" />
 </p>
 
-#
-
 # Pins
 
 <p align="center">
@@ -46,8 +42,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=CppTacToe&theme=tokyonight" />
  </a>
 <p>
- 
-#
  
 # Favorite Projects
 ## [Charon Perft (2021)](https://github.com/RedBedHed/Charon)
@@ -108,7 +102,6 @@
  </code>
 </pre> 
 
-#
 ## [Bit Tac Toe (Optimized late 2021)](https://github.com/RedBedHed/CppTacToe)
 
 <pre>
@@ -127,7 +120,6 @@
  </code>
 </pre>
 
-# 
 ## [Tetris (2020)](https://github.com/RedBedHed/Tetris) 
  
 <p align="center">
