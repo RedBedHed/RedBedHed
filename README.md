@@ -33,8 +33,8 @@
  <a href= "https://github.com/RedBedHed/Charon">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=Charon&theme=tokyonight" />
  </a>
- <a href= "https://github.com/RedBedHed/BitTacToe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=BitTacToe&theme=tokyonight" />
+ <a href= "https://github.com/RedBedHed/CppTacToe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=CppTacToe&theme=tokyonight" />
  </a>
 <p>
 
@@ -99,7 +99,7 @@
  </code>
 </pre> 
 
-## [Bit Tac Toe (Optimized late 2021)](https://github.com/CS-Cafe/BitTacToe)
+## [Bit Tac Toe (Optimized late 2021)](https://github.com/RedBedHed/CppTacToe)
 
 <pre>
  <code>
