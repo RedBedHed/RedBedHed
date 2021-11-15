@@ -37,8 +37,7 @@
  <a href= "https://github.com/RedBedHed/CppTacToe">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=CppTacToe&theme=tokyonight" />
  </a>
-<p>
-</br>
+</p>
  
 # 💖 Favorite Projects
  
@@ -101,7 +100,6 @@
 ~^*^~._.~^*^~._.~^*^~._.~^*^~._.~^*^~._.~^*^~._.~^*^~._.~^*^~.
  </code>
 </pre> 
-</br>
 
 ## [Tetris (2020)](https://github.com/RedBedHed/Tetris) 
 
