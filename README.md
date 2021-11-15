@@ -48,7 +48,8 @@
 #### **A stockfish (and lc0) inspired move generator for the game of chess.**
  
 ###### *(single-threaded, 1.6 ghz i5, strictly-legal moves only.)*
- 
+
+<p align="center">
  <pre>
   <code>
 
@@ -100,8 +101,9 @@
         perft(8) - 249.016 seconds - 84998978956 nodes visited.
         
 ~^*^~._.~^*^~._.~^*^~._.~^*^~._.~^*^~._.~^*^~._.~^*^~._.~^*^~.
- </code>
-</pre> 
+  </code>
+ </pre> 
+</p>
 
 ## [Tetris (2020)](https://github.com/RedBedHed/Tetris) 
 
