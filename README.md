@@ -25,7 +25,7 @@
  
 </p>
 
-#
+# Statistics
 
 <p align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedBedHed&theme=tokyonight" />
@@ -101,24 +101,6 @@
 ~^*^~._.~^*^~._.~^*^~._.~^*^~._.~^*^~._.~^*^~._.~^*^~._.~^*^~.
  </code>
 </pre> 
-
-## [Bit Tac Toe (Optimized late 2021)](https://github.com/RedBedHed/CppTacToe)
-
-<pre>
- <code>
-        - | - | o
-       ---+---+---
-        - | x | -
-       ---+---+---
-        - | - | -
-       I took 0.000127 seconds!
-       Make a move (1-9)
-       9 8 7
-       6 5 4
-       3 2 1
-       >>_
- </code>
-</pre>
 
 ## [Tetris (2020)](https://github.com/RedBedHed/Tetris) 
  
