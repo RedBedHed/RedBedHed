@@ -12,8 +12,6 @@
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
 # **✨About Ellie✨**
-
-# hello
  
 #### 📚 Education: In Progress
  
