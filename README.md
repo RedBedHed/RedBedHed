@@ -127,11 +127,11 @@
  </code>
 </pre>
 
-#
-
-<p align="center">
- 
+# 
 ## [Tetris (2020)](https://github.com/RedBedHed/Tetris) 
  
-<p>
+<p align="center">
+
 ![JTET](JTet.gif)
+ 
+<p>
