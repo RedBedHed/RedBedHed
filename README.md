@@ -44,11 +44,9 @@
  
 <h1 align="center" id="favorite-projects"><strong>💖 Favorite Projects</strong></h1>
  
-<a href= "https://github.com/RedBedHed/Charon">
- <h2 align="center" id="charon-perft-2021">
-  <strong>Charon Perft (2021)</strong>
- </h2>
-</a>
+<h2 align="center" id="charon-perft-2021">
+  <strong><a href= "https://github.com/RedBedHed/Charon">Charon Perft (2021)</a></strong>
+</h2>
  
 #### **A stockfish (and lc0) inspired move generator for the game of chess.**
  
@@ -108,11 +106,10 @@
   </code>
  </pre> 
 
-<a href= "https://github.com/RedBedHed/Tetris">
- <h2 align="center" id="tetris-2020">
-  <strong>Tetris (2020)</strong>
- </h2>
-</a>
+
+<h2 align="center" id="tetris-2020">
+  <strong><a href= "https://github.com/RedBedHed/Tetris">Tetris (2020)</a></strong>
+</h2>
 
 <p align = "center">
  <img src="JTet.gif" />
