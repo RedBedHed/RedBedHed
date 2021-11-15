@@ -26,8 +26,8 @@
 # 📈 Statistics
 
 <p align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedBedHed&theme=tokyonight" />
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=RedBedHed&show_icons=true&theme=tokyonight" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedBedHed&theme=tokyonight" />
+ <img src="https://github-readme-stats.vercel.app/api?username=RedBedHed&show_icons=true&theme=tokyonight" />
 </p>
 
 # 📌 Pins
@@ -105,4 +105,4 @@
 
 ## [Tetris (2020)](https://github.com/RedBedHed/Tetris) 
 
-<img src="JTet.gif" align="center"><img>
+<img align="center" src="JTet.gif"><img>
