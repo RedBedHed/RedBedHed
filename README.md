@@ -25,14 +25,14 @@
  
 </p>
 
-# Statistics
+# 📈 Statistics
 
 <p align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedBedHed&theme=tokyonight" />
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RedBedHed&show_icons=true&theme=tokyonight" />
 </p>
 
-# Pins
+# 📌 Pins
 
 <p align="center">
  <a href= "https://github.com/RedBedHed/Charon">
@@ -43,7 +43,7 @@
  </a>
 <p>
  
-# Favorite Projects
+# 💖 Favorite Projects
 ## [Charon Perft (2021)](https://github.com/RedBedHed/Charon)
 #### **A stockfish (and lc0) inspired move generator for the game of chess.**
 ###### *(single-threaded, 1.6 ghz i5, strictly-legal moves only.)*
