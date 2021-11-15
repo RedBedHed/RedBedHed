@@ -105,4 +105,6 @@
 
 ## [Tetris (2020)](https://github.com/RedBedHed/Tetris) 
 
-<img align="center" src="JTet.gif"><img>
+<p align = "center">
+<img src="JTet.gif"><img>
+</p>
