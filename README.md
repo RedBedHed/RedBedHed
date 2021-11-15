@@ -49,7 +49,6 @@
  
 ###### *(single-threaded, 1.6 ghz i5, strictly-legal moves only.)*
 
-<p align="center">
  <pre>
   <code>
 
@@ -103,7 +102,6 @@
 ~^*^~._.~^*^~._.~^*^~._.~^*^~._.~^*^~._.~^*^~._.~^*^~._.~^*^~.
   </code>
  </pre> 
-</p>
 
 ## [Tetris (2020)](https://github.com/RedBedHed/Tetris) 
 
