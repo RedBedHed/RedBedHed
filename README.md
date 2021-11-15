@@ -14,17 +14,11 @@
 # **✨About Ellie✨**
  
 #### 📚 Education: In Progress
- 
 > ###### *Associate In Science - Mesa Community College - Completed in 2020*
- 
 > ###### *B.S. Computer Science - Ira A. Fulton Schools of Engineering - Arizona State University - By 2023*
- 
 #### 📫 Reach Me At: emoore23@asu.edu
- 
 #### 👾 Pronouns: She/Her
- 
 #### ⚡ Interests: Math, Physics, Design Patterns, Operating Systems, Artificial Intelligence, Data Structures, Algorithms
- 
 #### (I dump lots of code on here... Most of it is pretty bad... Read at your own risk lol)
 
 # 📈 Statistics
@@ -44,6 +38,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=CppTacToe&theme=tokyonight" />
  </a>
 <p>
+
  
 # 💖 Favorite Projects
  
