@@ -11,6 +11,8 @@
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
+#
+
 # **✨About Ellie✨**
 
 <p align="center">
@@ -44,8 +46,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=CppTacToe&theme=tokyonight" />
  </a>
 <p>
-
-#
  
 #
  
