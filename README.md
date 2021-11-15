@@ -44,7 +44,7 @@
  
 <h1 align="center" id="favorite-projects"><strong>💖 Favorite Projects</strong></h1>
  
-<a href"https://github.com/RedBedHed/Charon"><h2 align="center" id="charon-perft-2021"><strong>Charon Perft (2021)</strong></h1></a>
+<a href="https://github.com/RedBedHed/Charon"><h2 align="center" id="charon-perft-2021"><strong>Charon Perft (2021)</strong></h1></a>
  
 #### **A stockfish (and lc0) inspired move generator for the game of chess.**
  
