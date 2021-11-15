@@ -15,6 +15,11 @@
 
 <p align="center">
  
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedBedHed&theme=tokyonight" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=RedBedHed&show_icons=true&theme=tokyonight" />
+ 
+#
+ 
 #### 📚 Education: In Progress
 > ###### *Associate In Science - Mesa Community College - Completed in 2020*
 > ###### *B.S. Computer Science - Ira A. Fulton Schools of Engineering - Arizona State University - By 2023*
@@ -25,11 +30,9 @@
  
 </p>
 
-#
+# Pins
 
 <p align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedBedHed&theme=tokyonight" />
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=RedBedHed&show_icons=true&theme=tokyonight" />
  <a href= "https://github.com/RedBedHed/Charon">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=Charon&theme=tokyonight" />
  </a>
