@@ -103,9 +103,5 @@
 </pre> 
 
 ## [Tetris (2020)](https://github.com/RedBedHed/Tetris) 
- 
-<p align="center">
 
 ![JTET](JTet.gif)
- 
-</p>
