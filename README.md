@@ -115,5 +115,5 @@
 </a>
 
 <p align = "center">
- <img src="JTet.gif"><img>
+ <img src="JTet.gif" />
 </p>
