@@ -24,14 +24,14 @@
 #### ⚡ Interests: Math, Physics, Design Patterns, Operating Systems, Artificial Intelligence, Data Structures, Algorithms
 #### (I dump lots of code on here... Most of it is pretty bad... Read at your own risk lol)
 
-# 📈 Statistics
+<h1 align="center" id="statistics"><strong>📈 Statistics</strong></h1>
 
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedBedHed&theme=tokyonight" />
  <img src="https://github-readme-stats.vercel.app/api?username=RedBedHed&show_icons=true&theme=tokyonight" />
 </p>
 
-# 📌 Pins
+<h1 align="center" id="pins"><strong>📌 Pins</strong></h1>
 
 <p align="center">
  <a href= "https://github.com/RedBedHed/Charon">
@@ -42,7 +42,7 @@
  </a>
 </p>
  
-# 💖 Favorite Projects
+<h1 align="center" id="favorite-projects"><strong>💖 Favorite Projects</strong></h1>
  
 ## [Charon Perft (2021)](https://github.com/RedBedHed/Charon)
  
