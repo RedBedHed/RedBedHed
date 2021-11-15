@@ -47,7 +47,7 @@
 <a href="https://github.com/RedBedHed/Charon">
  <h2 align="center" id="charon-perft-2021">
   <strong>Charon Perft (2021)</strong>
- </h1>
+ </h2>
 </a>
  
 #### **A stockfish (and lc0) inspired move generator for the game of chess.**
@@ -111,7 +111,7 @@
 <a href="https://github.com/RedBedHed/Tetris">
  <h2 align="center" id="tetris-2020">
   <strong>Tetris (2020)</strong>
- </h1>
+ </h2>
 </a>
 
 <p align = "center">
