@@ -38,6 +38,9 @@
  <a href= "https://github.com/RedBedHed/Charon">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=Charon&theme=tokyonight" />
  </a>
+ <a href= "https://github.com/RedBedHed/Multi-Pivot-Introsort">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=Multi-Pivot-Introsort&theme=tokyonight" />
+ </a>
  <a href= "https://github.com/RedBedHed/CppTacToe">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=CppTacToe&theme=tokyonight" />
  </a>
