@@ -52,7 +52,7 @@
 <h1 align="center" id="favorite-projects"><strong>💖 Favorite Projects 💖</strong></h1>
 
 <h2 align="center" id="rug-cellular-automata">
-  <strong><a href= "https://github.com/RedBedHed/RugCellularAutomata">Rug Cellular Automata (2022 CSE355 Project)</a></strong>
+  <strong><a href= "https://github.com/RedBedHed/Some-Cellular-Automata">Rug Cellular Automata (2022 CSE355 Project)</a></strong>
 </h2>
 
 <p align = "center">
