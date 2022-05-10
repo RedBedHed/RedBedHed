@@ -50,6 +50,14 @@
 </p>
  
 <h1 align="center" id="favorite-projects"><strong>💖 Favorite Projects 💖</strong></h1>
+
+<h2 align="center" id="Rug Cellular Automata">
+  <strong><a href= "https://github.com/RedBedHed/RugCellularAutomata">Rug Cellular Automata</a></strong>
+</h2>
+
+<p align = "center">
+ <img src="274.png" />
+</p>
  
 <h2 align="center" id="charon-perft-2021">
   <strong><a href= "https://github.com/RedBedHed/Charon">Charon Perft (2021)</a></strong>
@@ -120,12 +128,4 @@
 
 <p align = "center">
  <img src="JTet.gif" />
-</p>
-
-<h2 align="center" id="Rug Cellular Automata">
-  <strong><a href= "https://github.com/RedBedHed/RugCellularAutomata">Rug Cellular Automata</a></strong>
-</h2>
-
-<p align = "center">
- <img src="274.png" />
 </p>
