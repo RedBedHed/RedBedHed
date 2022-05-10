@@ -127,5 +127,5 @@
 </h2>
 
 <p align = "center">
- <img src="JTet.gif" />
+ <img src="274.png" />
 </p>
