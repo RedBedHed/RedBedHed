@@ -121,3 +121,11 @@
 <p align = "center">
  <img src="JTet.gif" />
 </p>
+
+<h2 align="center" id="Rug Cellular Automata">
+  <strong><a href= "https://github.com/RedBedHed/RugCellularAutomata">Rug Cellular Automata</a></strong>
+</h2>
+
+<p align = "center">
+ <img src="JTet.gif" />
+</p>
