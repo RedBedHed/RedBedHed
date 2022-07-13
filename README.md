@@ -44,9 +44,6 @@
  <a href= "https://github.com/RedBedHed/TicTacToe">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=TicTacToe&theme=tokyonight" />
  </a>
- <a href= "https://github.com/CS-Cafe/SNAIL-Project"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CS-Cafe&repo=SNAIL-Project&theme=tokyonight" />
- </a>
 </p>
  
 <h1 align="center" id="favorite-projects"><strong>💖 Favorite Projects 💖</strong></h1>
