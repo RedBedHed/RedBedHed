@@ -35,6 +35,9 @@
 <h1 align="center" id="pins"><strong>📌 Pins 📌</strong></h1>
 
 <p align="center">
+ <a href= "https://github.com/RedBedHed/Homura">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=Homura&theme=tokyonight" />
+ </a>
  <a href= "https://github.com/RedBedHed/Charon">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=Charon&theme=tokyonight" />
  </a>
@@ -47,6 +50,10 @@
 </p>
  
 <h1 align="center" id="favorite-projects"><strong>💖 Favorite Projects 💖</strong></h1>
+
+<h2 align="center" id="homura">
+  <strong><a href= "https://github.com/RedBedHed/Homura">Homura (A UCI-Subset Chess Engine and Undergraduate Project)</a></strong>
+</h2>
 
 <h2 align="center" id="rug-cellular-automata">
   <strong><a href= "https://github.com/RedBedHed/Some-Cellular-Automata">Rug Cellular Automata (2022 CSE355 Project)</a></strong>
