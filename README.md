@@ -19,7 +19,7 @@
 <h4 id="-education-in-progress">📚 Education: In Progress</h4>
 
 > ###### *Associate In Science - Mesa Community College - Completed in 2020*
-> ###### *B.S. Computer Science - Ira A. Fulton Schools of Engineering - Arizona State University - By 2023*
+> ###### *B.S. Computer Science - Ira A. Fulton Schools of Engineering - Completed in 2023*
 #### 📫 Reach Me At: emoore23@asu.edu
 #### 👾 Pronouns: She/Her
 #### ⚡ Interests: Math, Physics, Design Patterns, Operating Systems, Artificial Intelligence, Data Structures, Algorithms
