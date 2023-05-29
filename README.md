@@ -130,7 +130,7 @@
 </h2>
 
 <p align = "center">
- <img src="https://github.com/RedBedHed/Pixel-Art-Time-Waster-9000/HonorsProject-1.0/Art2/Save33.png"/>
+ <img src="https://github.com/RedBedHed/Pixel-Art-Time-Waster-9000/HonorsProject-0.1/Art2/Save33.png"/>
 </p>
 
 <h2 align="center" id="tetris-2020">
