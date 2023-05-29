@@ -65,7 +65,7 @@ id author Ellie Moore
 uciok
 isready
 readyok
-go
+go movetime 5000
 info depth 1 score cp 36 nodes 20
 info pv g1f3
 info depth 2 score cp 0 nodes 40
