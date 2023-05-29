@@ -130,7 +130,14 @@
 </h2>
 
 <p align = "center">
- <img src="Save33.png"/>
+ <img src="Save72.png" height="200" width="200"/>
+ <img src="Save73.png" height="200" width="200"/>
+ <img src="Save74.png" height="200" width="200"/>
+ <img src="Save75.png" height="200" width="200"/>
+ <img src="Save76.png" height="200" width="200"/>
+ <img src="Save77.png" height="200" width="200"/>
+ <img src="Save78.png" height="200" width="200"/>
+ <img src="Save79.png" height="200" width="200"/>
 </p>
 
 <h2 align="center" id="tetris-2020">
