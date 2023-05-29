@@ -52,7 +52,7 @@
 <h1 align="center" id="favorite-projects"><strong>💖 Favorite Projects 💖</strong></h1>
 
 <h2 align="center" id="homura">
-  <strong><a href= "https://github.com/RedBedHed/Homura">Homura (A UCI-Subset Chess Engine and Undergraduate Project)</a></strong>
+  <strong><a href= "https://github.com/RedBedHed/Homura">Homura (A UCI-Subset Chess Engine and 2022-2023 Undergraduate Project)</a></strong>
 </h2>
 
 <pre>
