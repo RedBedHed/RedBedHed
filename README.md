@@ -125,6 +125,13 @@
   </code>
  </pre> 
 
+<h2 align="center" id="pixel-art-time-waster-9000">
+ <strong><a href= "https://github.com/RedBedHed/Pixel-Art-Time-Waster-9000">Pixel Art Time Waster 9000</a></strong>
+</h2>
+
+<p align = "center">
+ <img src="https://github.com/RedBedHed/Pixel-Art-Time-Waster-9000/HonorsProject-1.0/Art2/Save33.png"/>
+</p>
 
 <h2 align="center" id="tetris-2020">
   <strong><a href= "https://github.com/RedBedHed/Tetris">Tetris (2020)</a></strong>
