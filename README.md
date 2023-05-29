@@ -20,6 +20,7 @@
 
 > ###### *Associate In Science - Mesa Community College - Completed in 2020*
 > ###### *B.S. Computer Science - Ira A. Fulton Schools of Engineering - Completed in 2023*
+> ###### *Graduate School in the Near Future!*
 #### 📫 Reach Me At: emoore23@asu.edu
 #### 👾 Pronouns: She/Her
 #### ⚡ Interests: Math, Physics, Design Patterns, Operating Systems, Artificial Intelligence, Data Structures, Algorithms
