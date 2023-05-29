@@ -52,8 +52,10 @@
 <h1 align="center" id="favorite-projects"><strong>💖 Favorite Projects 💖</strong></h1>
 
 <h2 align="center" id="homura">
-  <strong><a href= "https://github.com/RedBedHed/Homura">Homura (A UCI-Subset Chess Engine and 2022-2023 Undergraduate Project)</a></strong>
+  <strong><a href= "https://github.com/RedBedHed/Homura">Homura (2023)</a></strong>
 </h2>
+
+#### **A UCI-Subset Chess Engine and 2022-2023 Undergraduate Project**
 
 <pre>
  <code>
@@ -106,6 +108,21 @@ info depth 19 nodes 194708
 bestmove e2e4
  </code>
 </pre>
+
+<h2 align="center" id="pixel-art-time-waster-9000">
+ <strong><a href= "https://github.com/RedBedHed/Pixel-Art-Time-Waster-9000">Pixel Art Time Waster 9000 (2023 Doodle)</a></strong>
+</h2>
+
+<p align = "center">
+ <img src="Save72.png" height="200" width="200"/>
+ <img src="Save73.png" height="200" width="200"/>
+ <img src="Save74.png" height="200" width="200"/>
+ <img src="Save75.png" height="200" width="200"/>
+ <img src="Save76.png" height="200" width="200"/>
+ <img src="Save77.png" height="200" width="200"/>
+ <img src="Save78.png" height="200" width="200"/>
+ <img src="Save79.png" height="200" width="200"/>
+</p>
 
 <h2 align="center" id="rug-cellular-automata">
   <strong><a href= "https://github.com/RedBedHed/Some-Cellular-Automata">Rug Cellular Automata (2022 CSE355 Project)</a></strong>
@@ -176,21 +193,6 @@ bestmove e2e4
 ~^*^~._.~^*^~._.~^*^~._.~^*^~._.~^*^~._.~^*^~._.~^*^~._.~^*^~.
   </code>
  </pre> 
-
-<h2 align="center" id="pixel-art-time-waster-9000">
- <strong><a href= "https://github.com/RedBedHed/Pixel-Art-Time-Waster-9000">Pixel Art Time Waster 9000</a></strong>
-</h2>
-
-<p align = "center">
- <img src="Save72.png" height="200" width="200"/>
- <img src="Save73.png" height="200" width="200"/>
- <img src="Save74.png" height="200" width="200"/>
- <img src="Save75.png" height="200" width="200"/>
- <img src="Save76.png" height="200" width="200"/>
- <img src="Save77.png" height="200" width="200"/>
- <img src="Save78.png" height="200" width="200"/>
- <img src="Save79.png" height="200" width="200"/>
-</p>
 
 <h2 align="center" id="tetris-2020">
   <strong><a href= "https://github.com/RedBedHed/Tetris">Tetris (2020)</a></strong>
