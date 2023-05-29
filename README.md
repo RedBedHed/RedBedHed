@@ -30,6 +30,7 @@
 
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedBedHed&theme=tokyonight" />
+  <br/>
  <img src="https://github-readme-stats.vercel.app/api?username=RedBedHed&show_icons=true&theme=tokyonight" />
 </p>
 
@@ -39,6 +40,7 @@
  <a href= "https://github.com/RedBedHed/Homura">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=Homura&theme=tokyonight" />
  </a>
+ <br/>
  <a href= "https://github.com/RedBedHed/Multi-Pivot-Introsort">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=Multi-Pivot-Introsort&theme=tokyonight" />
  </a>
