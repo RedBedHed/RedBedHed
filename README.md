@@ -41,8 +41,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=Homura&theme=tokyonight" />
  </a>
  <br/>
- <a href= "https://github.com/RedBedHed/Multi-Pivot-Introsort">
+ <a href="https://github.com/RedBedHed/Multi-Pivot-Introsort">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=Multi-Pivot-Introsort&theme=tokyonight" />
+ </a>
+ <a href="https://github.com/RedBedHed/x86-TicTacToe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=x86-TicTacToe&theme=tokyonight" />
  </a>
 </p>
  
