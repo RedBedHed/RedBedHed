@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a" />
 <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a" />
 <img src="https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a" />
-<img src="https://img.shields.io/badge/Code-Asm-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a" />
+<img src="https://img.shields.io/badge/Code-Assembly-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a" />
 <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a" />
 </p>
 
