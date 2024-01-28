@@ -43,7 +43,7 @@
  </a>
  <br/>
  <a href="https://github.com/RedBedHed/blipsort">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=Multi-Pivot-Introsort&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=blipsort&theme=tokyonight" />
  </a>
  <a href="https://github.com/RedBedHed/x86-TicTacToe">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=x86-TicTacToe&theme=tokyonight" />
