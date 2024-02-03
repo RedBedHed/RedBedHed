@@ -45,11 +45,11 @@
  <a href="https://github.com/RedBedHed/blipsort">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=blipsort&theme=tokyonight" />
  </a>
- <a href="https://github.com/RedBedHed/x86-TicTacToe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=x86-TicTacToe&theme=tokyonight" />
- </a>
  <a href="https://github.com/RedBedHed/Pixel-Art-Time-Waster-9000">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=Pixel-Art-Time-Waster-9000&theme=tokyonight" />
+ </a>
+ <a href="https://github.com/RedBedHed/x86-TicTacToe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=x86-TicTacToe&theme=tokyonight" />
  </a>
 </p>
  
