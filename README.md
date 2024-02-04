@@ -24,7 +24,7 @@
 > ###### *Graduate School in the Near Future!*
 #### 📫 Reach Me At: emoore23@asu.edu
 #### 👾 Pronouns: She/Her
-#### ⚡ Interests: Math, Design Patterns, Artificial Intelligence, Data Structures, Algorithms, Low-Level Programming
+#### ⚡ Interests: Artificial Intelligence, Data Structures, Low-Level Programming, Algorithms, Math, Design Patterns
 #### (I dump lots of code on here... Most of it is pretty bad... Read at your own risk lol)
 
 <h1 align="center" id="statistics"><strong>📈 Statistics 📈</strong></h1>
