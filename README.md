@@ -1,6 +1,6 @@
 ![Header](sorry.png.png)
 
-<h6 align="center"><i>sorry, wish we could go to the moon together.</i><h6>
+<h6 align="center"><i>"sorry, wish we could go to the moon together."</i><h6>
 
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=RedBedHed.RedBedHed&logoColor=white&color=2bbc8a" />
