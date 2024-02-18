@@ -26,8 +26,20 @@
 > ###### *Graduate School in the Near Future!*
 #### 📫 Reach Me At: emoore23@asu.edu
 #### 👾 Pronouns: She/Her
-#### 🍥 Anime: Stein's;Gate, Cyberpunk: Edgerunners, Cowboy Bebop, Neon Genesis Evangelion, Violet Evergarden, Frieren, Madoka Magica, Death Parade, Samurai Champloo, and a so much more that I can't think of right now...
-#### ✍️ Other Animations: Arcane (duh), Blue Eye Samurai
+#### 🍥 Anime: 
+* Stein's;Gate
+* Cyberpunk: Edgerunners
+* Cowboy Bebop
+* Neon Genesis Evangelion
+* Violet Evergarden
+* Frieren
+* Madoka Magica
+* Death Parade
+* Samurai Champloo
+* So much more that I can't think of right now...
+#### ✍️ Other Animations: 
+* Arcane
+* Blue Eye Samurai
 #### 🍂 Favorite Season: Fall
 #### ⚡ Interests: Artificial Intelligence, Data Structures, Low-Level Programming, Algorithms, Math, Design Patterns
 #### (I dump lots of code on here... Most of it is pretty bad... Read at your own risk lol)
