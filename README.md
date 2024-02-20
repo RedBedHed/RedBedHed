@@ -21,9 +21,9 @@
 
 <h4 id="-education-in-progress">📚 Education: In Progress</h4>
 
-* ###### *Associate In Science - Mesa Community College - Completed in 2020*
-* ###### *B.S. Computer Science - Ira A. Fulton Schools of Engineering - Completed in 2023*
-* ###### *Graduate School in the Near Future!*
+* *Associate In Science - Mesa Community College - Completed in 2020*
+* *B.S. Computer Science - Ira A. Fulton Schools of Engineering - Completed in 2023*
+* *Graduate School in the Near Future!*
 #### 📫 Reach Me At: emoore23@asu.edu
 #### 👾 Pronouns: She/Her
 #### 🍥 Anime: 
