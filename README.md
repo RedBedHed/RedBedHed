@@ -24,7 +24,7 @@
 * *Associate In Science - Mesa Community College - Completed in 2020*
 * *B.S. Computer Science - Ira A. Fulton Schools of Engineering - Completed in 2023*
 * *Graduate School in the Near Future!*
-#### 📫 Reach Me At: emoore23@asu.edu
+#### 📫 Reach Me At: evcmoore@gmail.com
 #### 👾 Pronouns: She/Her
 #### 🍥 Anime: 
 * Stein's;Gate
