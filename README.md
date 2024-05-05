@@ -62,6 +62,9 @@
  <a href="https://github.com/RedBedHed/blipsort">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=blipsort&theme=tokyonight" />
  </a>
+ <a href="https://github.com/RedBedHed/boic-v1.0">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=boic-v1.0&theme=tokyonight" />
+ </a>
  <a href="https://github.com/RedBedHed/Pixel-Art-Time-Waster-9000">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=Pixel-Art-Time-Waster-9000&theme=tokyonight" />
  </a>
