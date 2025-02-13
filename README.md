@@ -29,6 +29,7 @@
 #### 🍥 Anime: 
 * Stein's;Gate
 * Cyberpunk: Edgerunners
+* 86
 * Cowboy Bebop
 * Neon Genesis Evangelion
 * Violet Evergarden
