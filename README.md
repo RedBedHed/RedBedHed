@@ -18,7 +18,7 @@
 </p>
 
 <h1 align="center" id="about-ellie"><strong>✨About Ellie✨</strong></h1>
-<p align = "center">
+<p align = "center" width="400">
  <img src="profile.png" />
 </p>
 
