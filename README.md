@@ -18,8 +18,8 @@
 </p>
 
 <h1 align="center" id="about-ellie"><strong>✨About Ellie✨</strong></h1>
-<p align = "center" width="400">
- <img src="profile.png" />
+<p align = "center">
+ <img src="profile.png" width="400" />
 </p>
 
 <h4 id="-education-in-progress">📚 Education: In Progress</h4>
