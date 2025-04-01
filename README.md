@@ -40,6 +40,7 @@
 * Madoka Magica
 * Death Parade
 * Samurai Champloo
+* Ranma 1/2
 * So much more that I can't think of right now...
 #### ✍️ Other Animations: 
 * Arcane
