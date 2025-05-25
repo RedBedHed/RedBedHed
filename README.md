@@ -142,8 +142,10 @@ bestmove e2e4
 </pre>
 
 <h2 align="center" id="SudokuGen">
-  <strong><a href= "https://github.com/RedBedHed/SudokuGen">SudokuGen</a></strong>
+  <strong><a href= "https://github.com/RedBedHed/SudokuGen">SudokuGen (2025)</a></strong>
 </h2>
+
+#### **A fast "classical" Sudoku Generator**
 
 <pre>
  <code>
