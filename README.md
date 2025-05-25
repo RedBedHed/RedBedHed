@@ -145,7 +145,7 @@ bestmove e2e4
   <strong><a href= "https://github.com/RedBedHed/SudokuGen">SudokuGen (2025)</a></strong>
 </h2>
 
-#### **A fast "classical" Sudoku Generator**
+#### **A fast "classical" Sudoku puzzle generator**
 
 <pre>
  <code>
