@@ -76,6 +76,9 @@
  <a href="https://github.com/RedBedHed/x86-TicTacToe">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=x86-TicTacToe&theme=tokyonight" />
  </a>
+  <a href="https://github.com/RedBedHed/SudokuGen">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=SudokuGen&theme=tokyonight" />
+ </a>
 </p>
  
 <h1 align="center" id="favorite-projects"><strong>💖 Favorite Projects 💖</strong></h1>
@@ -135,6 +138,47 @@ info depth 19 score cp 21 nodes 19822
 info pv e2e4 e7e5 g1f3 b8c6 b1c3 g8f6 d2d4 e5d4 f3d4 f8b4 d4c6 b7c6 e4e5 f6e4 d1f3 d8h4 f1e2 e8g8 e1g1
 info depth 19 nodes 194708
 bestmove e2e4
+ </code>
+</pre>
+
+<h2 align="center" id="SudokuGen">
+  <strong><a href= "https://github.com/RedBedHed/SudokuGen">SudokuGen</a></strong>
+</h2>
+
+<pre>
+ <code>
+Baseline generated in 30 steps.
+Baseline is consistent.
+Unique puzzle Generated. 0 verification steps taken.
+Puzzle has 40 empty squares of 40 requested.
+_____________________________________________________
+
+    //    / /
+   //___ / /  ___      ___      ___
+  / ___   / //   ) ) //   ) ) //   ) ) //   / /
+ //    / / //   / / //___/ / //___/ / ((___/ /
+//    / / ((___( ( //       //            / /
+                                      //__
+    //   ) )
+   ((         ___     //         ( )   __      ___
+      \     //   ) ) // ||  / / / / //   ) ) //   ) )
+       ) ) //   / / //  || / / / / //   / / ((___/ /
+((___ / / ((___/ / //   ||/ / / / //   / /   //__
+_____________________________________________________
+
+ 6   3 |   8 9 | 5 2
+ 8     |     5 |
+   7 2 |   3 6 | 4   8
+-------+-------+-------
+ 3 2 1 | 6 5   |   8 9
+ 7 9   | 8   2 |   4
+ 4 8 6 | 3     | 2 1
+-------+-------+-------
+       |       |
+ 9   8 |   4   |     2
+ 2   4 |   6 8 |   5
+
+Time elapsed: 0.072857s
  </code>
 </pre>
 
