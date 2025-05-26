@@ -81,7 +81,7 @@
  </a>
   </a>
   <a href="https://github.com/RedBedHed/VibeAnalyzer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=VibeAnaly&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=VibeAnalyzer&theme=tokyonight" />
  </a>
 </p>
  
