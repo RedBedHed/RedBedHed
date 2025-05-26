@@ -192,7 +192,7 @@ Time elapsed: 0.072857s
   <strong><a href= "https://github.com/RedBedHed/SudokuGen">SudokuGen (2025)</a></strong>
 </h2>
 
-#### **A simple machine learning model for analyzing the emotionality of text with ~87% accuracy.**
+#### **A simple machine learning model for analyzing the emotionality of text with ~80% accuracy.**
 
 <pre>
  <code>
