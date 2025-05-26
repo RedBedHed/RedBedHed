@@ -80,8 +80,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=SudokuGen&theme=tokyonight" />
  </a>
   </a>
-  <a href="https://github.com/RedBedHed/VibeAnalyzer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=VibeAnalyzer&theme=tokyonight" />
+  <a href="https://github.com/RedBedHed/VibeChecker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=VibeChecker&theme=tokyonight" />
  </a>
 </p>
  
@@ -188,8 +188,8 @@ Time elapsed: 0.072857s
  </code>
 </pre>
 
-<h2 align="center" id="VibeAnalyzer">
-  <strong><a href= "https://github.com/RedBedHed/VibeAnalyzer">VibeAnalyzer (2025)</a></strong>
+<h2 align="center" id="VibeChecker">
+  <strong><a href= "https://github.com/RedBedHed/VibeChecker">VibeChecker (2025)</a></strong>
 </h2>
 
 #### **A simple machine learning model for analyzing the emotionality of text with ~87% accuracy.**
