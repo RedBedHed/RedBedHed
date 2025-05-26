@@ -79,6 +79,10 @@
   <a href="https://github.com/RedBedHed/SudokuGen">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=SudokuGen&theme=tokyonight" />
  </a>
+  </a>
+  <a href="https://github.com/RedBedHed/VibeAnalyzer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=VibeAnalyzer&theme=tokyonight" />
+ </a>
 </p>
  
 <h1 align="center" id="favorite-projects"><strong>💖 Favorite Projects 💖</strong></h1>
@@ -181,6 +185,20 @@ _____________________________________________________
  2   4 |   6 8 |   5
 
 Time elapsed: 0.072857s
+ </code>
+</pre>
+
+<h2 align="center" id="VibeAnalyzer">
+  <strong><a href= "https://github.com/RedBedHed/SudokuGen">SudokuGen (2025)</a></strong>
+</h2>
+
+#### **A simple machine learning model for analyzing the emotionality of text with ~87% accuracy.**
+
+<pre>
+ <code>
+python vibe.py -s "ah! you shocked me!"
+Post: "ah! you shocked me!"
+Vibe: surprise
  </code>
 </pre>
 
