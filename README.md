@@ -196,9 +196,8 @@ Time elapsed: 0.072857s
 
 <pre>
  <code>
-python vibe.py -s "ah! you shocked me!"
-Post: "ah! you shocked me!"
-Vibe: (⊙ _ ⊙) | surprise
+Post: "Within, walls continued upright, bricks met neatly, floors were firm, and doors were sensibly shut; silence lay steadily against the wood and stone of Hill House, and whatever walked there, walked alone"
+Vibe: (ó﹏ò｡) | fear
  </code>
 </pre>
 
