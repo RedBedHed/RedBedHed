@@ -198,7 +198,7 @@ Time elapsed: 0.072857s
  <code>
 python vibe.py -s "ah! you shocked me!"
 Post: "ah! you shocked me!"
-Vibe: surprise
+Vibe: (⊙ _ ⊙) | surprise
  </code>
 </pre>
 
