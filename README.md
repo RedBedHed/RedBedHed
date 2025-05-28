@@ -202,6 +202,16 @@ Vibe: (ó﹏ò｡) | fear
  </code>
 </pre>
 
+<h2 align="center" id="VibeCheckGUI">
+  <strong><a href= "https://github.com/RedBedHed/VibeChecker">VibeChecker (2025)</a></strong>
+</h2>
+
+#### **A simple machine learning model for analyzing the emotionality of text with ~87% accuracy. Now with a GUI!**
+
+<p align = "center">
+ <img src="fear.png" height="500" width="500"/>
+</p>
+
 <h2 align="center" id="pixel-art-time-waster-9000">
  <strong><a href= "https://github.com/RedBedHed/Pixel-Art-Time-Waster-9000">Pixel Art Time Waster 9000 (2023 Doodle)</a></strong>
 </h2>
