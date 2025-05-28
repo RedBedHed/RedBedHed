@@ -209,7 +209,7 @@ Vibe: (ó﹏ò｡) | fear
 #### **A simple machine learning model for analyzing the emotionality of text with ~87% accuracy. Now with a GUI!**
 
 <p align = "center">
- <img src="fear.png" height="750" width="750"/>
+ <img src="fear.png" width="750"/>
 </p>
 
 <h2 align="center" id="pixel-art-time-waster-9000">
