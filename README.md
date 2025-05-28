@@ -203,7 +203,7 @@ Vibe: (ó﹏ò｡) | fear
 </pre>
 
 <h2 align="center" id="VibeCheckGUI">
-  <strong><a href= "https://github.com/RedBedHed/VibeChecker">VibeChecker (2025)</a></strong>
+  <strong><a href= "https://github.com/RedBedHed/VibeCheckGUI">VibeCheckGUI (2025)</a></strong>
 </h2>
 
 #### **A simple machine learning model for analyzing the emotionality of text with ~87% accuracy. Now with a GUI!**
