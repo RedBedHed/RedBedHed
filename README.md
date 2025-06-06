@@ -148,6 +148,64 @@ bestmove e2e4
  </code>
 </pre>
 
+<h2 align="center" id="VibeChecker">
+  <strong><a href= "https://github.com/RedBedHed/VibeChecker">VibeChecker (2025)</a></strong>
+</h2>
+
+#### **A simple machine learning model for analyzing the emotionality of text with ~87% accuracy.**
+
+<pre>
+ <code>
+Post: "Within, walls continued upright, bricks met neatly, floors were firm, and doors were sensibly shut; 
+silence lay steadily against the wood and stone of Hill House, and whatever walked there, walked alone"
+Vibe: (ó﹏ò｡) | fear
+ </code>
+</pre>
+
+<h2 align="center" id="VibeCheckGUI">
+  <strong><a href= "https://github.com/RedBedHed/VibeCheckGUI">VibeCheckGUI (2025)</a></strong>
+</h2>
+
+#### **A simple machine learning model for analyzing the emotionality of text with ~87% accuracy. Now with a GUI!**
+
+<p align = "center">
+ <img src="fear.png" width="750"/>
+</p>
+
+<h2 align="center" id="boic-v1.0">
+  <strong><a href= "https://github.com/RedBedHed/boic-v1.0">boic (2023)</a></strong>
+</h2>
+
+#### **A toy language and compiler**
+
+<pre>
+ <code>
+@fib(n);
+
+@datboi(argybois)
+{
+    boi g;
+
+    getBoi(g);
+
+    putBoi(fib(g));
+
+    yeetboi 0;
+}
+
+@fib(n)
+{
+    ifboi( n == 0 )
+    { yeetboi 0; }
+
+    ifboi( n <= 2 )
+    { yeetboi 1; }
+
+    yeetboi fib(n - 1) + fib(n - 2);
+}
+ </code>
+</pre>
+
 <h2 align="center" id="SudokuGen">
   <strong><a href= "https://github.com/RedBedHed/SudokuGen">SudokuGen (2025)</a></strong>
 </h2>
@@ -190,30 +248,6 @@ _____________________________________________________
 Time elapsed: 0.072857s
  </code>
 </pre>
-
-<h2 align="center" id="VibeChecker">
-  <strong><a href= "https://github.com/RedBedHed/VibeChecker">VibeChecker (2025)</a></strong>
-</h2>
-
-#### **A simple machine learning model for analyzing the emotionality of text with ~87% accuracy.**
-
-<pre>
- <code>
-Post: "Within, walls continued upright, bricks met neatly, floors were firm, and doors were sensibly shut; 
-silence lay steadily against the wood and stone of Hill House, and whatever walked there, walked alone"
-Vibe: (ó﹏ò｡) | fear
- </code>
-</pre>
-
-<h2 align="center" id="VibeCheckGUI">
-  <strong><a href= "https://github.com/RedBedHed/VibeCheckGUI">VibeCheckGUI (2025)</a></strong>
-</h2>
-
-#### **A simple machine learning model for analyzing the emotionality of text with ~87% accuracy. Now with a GUI!**
-
-<p align = "center">
- <img src="fear.png" width="750"/>
-</p>
 
 <h2 align="center" id="pixel-art-time-waster-9000">
  <strong><a href= "https://github.com/RedBedHed/Pixel-Art-Time-Waster-9000">Pixel Art Time Waster 9000 (2023 Doodle)</a></strong>
