@@ -173,7 +173,7 @@ Vibe: (ó﹏ò｡) | fear
 </p>
 
 <h2 align="center" id="boic-v1.0">
-  <strong><a href= "https://github.com/RedBedHed/boic-v1.0">boic (2023)</a></strong>
+  <strong><a href= "https://github.com/RedBedHed/boic-v1.0">Boic (2023)</a></strong>
 </h2>
 
 #### **A toy language and compiler**
