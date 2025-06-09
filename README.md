@@ -183,7 +183,7 @@ Vibe: (ó﹏ò｡) | fear
 #### **A simple MNIST-trained neural network for classifying handwritten digits with ~96% accuracy.**
 
 <p align = "center">
- <img src="net.png" width="350"/>
+ <img src="net.png" width="550"/>
  <img src="five.png" width="350"/>
 </p>
 
