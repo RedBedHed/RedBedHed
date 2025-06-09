@@ -86,6 +86,10 @@
   <a href="https://github.com/RedBedHed/VibeCheckGUI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=VibeCheckGUI&theme=tokyonight" />
  </a>
+ </a>
+  <a href="https://github.com/RedBedHed/DL_HelloWorld">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=DL_HelloWorld&theme=tokyonight" />
+ </a>
 </p>
  
 <h1 align="center" id="favorite-projects"><strong>💖 Favorite Projects 💖</strong></h1>
