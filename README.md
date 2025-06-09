@@ -176,6 +176,17 @@ Vibe: (ó﹏ò｡) | fear
  <img src="fear.png" width="750"/>
 </p>
 
+<h2 align="center" id="DL_HelloWorld">
+  <strong><a href= "https://github.com/RedBedHed/DL_HelloWorld">DL_HelloWorld (2025)</a></strong>
+</h2>
+
+#### **A simple MNIST-trained neural network for classifying handwritten digits with ~96% accuracy.**
+
+<p align = "center">
+ <img src="net.png" width="350"/>
+ <img src="five.png" width="350"/>
+</p>
+
 <h2 align="center" id="boic-v1.0">
   <strong><a href= "https://github.com/RedBedHed/boic-v1.0">Boic (2023)</a></strong>
 </h2>
