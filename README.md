@@ -29,43 +29,22 @@
 * *M.S. Computer Science - Georgia Tech - In progress - August 2024*
 #### 📫 Reach Me At: evcmoore@gmail.com
 #### 👾 Pronouns: She/Her
-#### 🍥 Anime: 
-* Stein's;Gate
-* Cyberpunk: Edgerunners
-* 86
-* Cowboy Bebop
-* Neon Genesis Evangelion
-* Violet Evergarden
-* Frieren
-* Madoka Magica
-* Death Parade
-* Samurai Champloo
-* Ranma 1/2
-* Anything Ghibli
-* ...
-#### ✍️ Other Animations: 
-* Arcane
-* Blue Eye Samurai
-#### Books
-* Sunrise on the Reaping
-* The Dark Forest
-* Death's End
-* ...
-#### Shows
-* Andor
-* Westworld (Season 1)
-* The Haunting of Hill House
-* ...
-#### Movies
-* Arrival
-* Gravity
-* Inception
-* Interstellar
-* ...
-#### Games
-* Cyberpunk 2077
-* The Last of Us Part 2
-* Portal 2
+#### 💖 Favorite Media
+| 🍥 Anime | ✍️ Other Animations | 📖 Books | 📺 Shows | 🎞️ Movies | 🎮 Games |
+|---|---|---|---|---|---|
+| Stein's;Gate             | Arcane           | Sunrise on the Reaping | Andor                      | Arrival       | Cyberpunk 2077        |
+| Cyberpunk: Edgerunners   | Blue Eye Samurai | The Dark Forest        | Westworld (Season 1)       | Gravity       | The Last of Us Part 2 |
+| 86                       | ...              | Death's End            | The Haunting of Hill House | Inception     | Portal 2              |
+| Cowboy Bebop             |                  | ...                    | ...                        | Interstellar  |                       |
+| Neon Genesis Evangelion  |                  |                        |                            | ...           |                       |
+| Violet Evergarden        |                  |                        |                            |               |                       |
+| Frieren                  |                  |                        |                            |               |                       |
+| Madoka Magica            |                  |                        |                            |               |                       |
+| Death Parade             |                  |                        |                            |               |                       |
+| Samurai Champloo         |                  |                        |                            |               |                       |
+| Ranma 1/2                |                  |                        |                            |               |                       |
+| Anything Ghibli          |                  |                        |                            |               |                       |
+|...                       |                  |                        |                            |               |                       |
 #### 🍂 Favorite Season: Fall
 #### ⚡ Interests: Artificial Intelligence, Data Structures, Low-Level Programming, Algorithms, Math, Design Patterns
 #### (I dump lots of code on here... Most of it is pretty bad... Read at your own risk lol)
