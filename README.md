@@ -1,6 +1,6 @@
 ![Header](sorry.png.png)
 
-<h6 align="center"><i>"sorry, wish we could go to the moon together."</i><h6>
+<h6 align="center"><i>"Sorry, wish we could go to the moon together."</i><h6>
 
 <h6 align="center"><i>"And you, you’re the same. You fought to the end. You survived. That’s why you’re here now. I think that’s something you should be more proud of."</i><h6>
 
