@@ -29,7 +29,7 @@
 * *M.S. Computer Science - Georgia Tech - In progress - August 2024*
 #### 📫 Reach Me At: evcmoore@gmail.com
 #### 👾 Pronouns: She/Her
-#### 💖 Favorite Media
+#### 💖 Favorite Media (That I can currently think of...)
 | 🍥 Anime | ✍️ Other Animations | 📖 Books | 📺 Shows | 🎞️ Movies | 🎮 Games |
 |---|---|---|---|---|---|
 | Stein's;Gate             | Arcane           | Sunrise on the Reaping | Andor                      | Arrival       | Cyberpunk 2077        |
