@@ -2,18 +2,6 @@
 
 <h6 align="center"><i>"Sorry, wish we could go to the moon together."</i><h6>
 
-<h6 align="center"><i>"And you, you’re the same. You fought to the end. You survived. That’s why you’re here now. I think that’s something you should be more proud of."</i><h6>
-
-<h6 align="center"><i>"You were capable of imagining a different future. And maybe it won’t be realized today, maybe not in our lifetime. Maybe it will take generations. We’re all part of a continuum. Does that make it pointless?"</i><h6>
-
-<h6 align="center"><i>"Every minute of every day, we each become someone new. We shouldn't fear change itself, but only who we might change into."</i><h6>
-
-<h6 align="center"><i>"That one-hundredth changed you."</i><h6>
-
-<h6 align="center"><i>"We build our own prisons. Bars forged of oaths, codes, commitments. Walls of self-doubt and accepted limitation. We inhabit these cells, these identities, and call them “us”… I thought I could break free by eliminating those I deemed my jailers. But, Jinx… I think the cycle only ends when you find the will to walk away."</i><h6>
-
-<h6 align="center"><i>"Right now you're breathing, speaking, thinking your hardest about something. That's enough."</i><h6>
-
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=RedBedHed.RedBedHed&logoColor=white&color=2bbc8a" />
 <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a" />
@@ -53,7 +41,8 @@
 * Death Parade
 * Samurai Champloo
 * Ranma 1/2
-* So much more that I can't think of right now...
+* Anything Ghibli
+* ...
 #### ✍️ Other Animations: 
 * Arcane
 * Blue Eye Samurai
@@ -61,6 +50,18 @@
 * Sunrise on the Reaping
 * The Dark Forest
 * Death's End
+* ...
+#### Shows
+* Andor
+* Westworld (Season 1)
+* The Haunting of Hill House
+* ...
+#### Movies
+* Arrival
+* Gravity
+* Inception
+* Interstellar
+* ...
 #### Games
 * Cyberpunk 2077
 * The Last of Us Part 2
