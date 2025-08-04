@@ -32,19 +32,19 @@
 #### 💖 Favorite Media (That I can currently think of...)
 | 🍥 Anime | ✍️ Other Animations | 📖 Books | 📺 Shows | 🎞️ Movies | 🎮 Games |
 |---|---|---|---|---|---|
-| Stein's;Gate             | Arcane           | Sunrise on the Reaping | Andor                      | Arrival       | Cyberpunk 2077        |
-| Cyberpunk: Edgerunners   | Blue Eye Samurai | The Dark Forest        | Westworld (Season 1)       | Gravity       | The Last of Us Part 2 |
-| 86                       | ...              | Death's End            | The Haunting of Hill House | Inception     | Portal 2              |
-| Cowboy Bebop             |                  | ...                    | ...                        | Interstellar  |                       |
-| Neon Genesis Evangelion  |                  |                        |                            | ...           |                       |
-| Violet Evergarden        |                  |                        |                            |               |                       |
-| Frieren                  |                  |                        |                            |               |                       |
-| Madoka Magica            |                  |                        |                            |               |                       |
-| Death Parade             |                  |                        |                            |               |                       |
-| Samurai Champloo         |                  |                        |                            |               |                       |
-| Ranma 1/2                |                  |                        |                            |               |                       |
-| Anything Ghibli          |                  |                        |                            |               |                       |
-|...                       |                  |                        |                            |               |                       |
+| Stein's;Gate             | Arcane           | Sunrise on the Reaping | Andor                      | Arrival           | Cyberpunk 2077        |
+| Cyberpunk: Edgerunners   | Blue Eye Samurai | The Dark Forest        | Westworld (Season 1)       | Gravity           | The Last of Us Part 2 |
+| 86                       | ...              | Death's End            | The Haunting of Hill House | Inception         | Portal 2              |
+| Cowboy Bebop             |                  | Lord of the Rings      | ...                        | Interstellar      | ...                   |
+| Neon Genesis Evangelion  |                  | ...                    |                            | Lord of the Rings |                       |
+| Violet Evergarden        |                  |                        |                            | ...               |                       |
+| Frieren                  |                  |                        |                            |                   |                       |
+| Madoka Magica            |                  |                        |                            |                   |                       |
+| Death Parade             |                  |                        |                            |                   |                       |
+| Samurai Champloo         |                  |                        |                            |                   |                       |
+| Ranma 1/2                |                  |                        |                            |                   |                       |
+| Anything Ghibli          |                  |                        |                            |                   |                       |
+|...                       |                  |                        |                            |                   |                       |
 #### 🍂 Favorite Season: Fall
 #### ⚡ Interests: Artificial Intelligence, Data Structures, Low-Level Programming, Algorithms, Math, Design Patterns
 #### (I dump lots of code on here... Most of it is pretty bad... Read at your own risk lol)
