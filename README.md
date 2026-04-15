@@ -1,6 +1,6 @@
-![Header](sorry.png.png)
+![Header](banner.png)
 
-<h6 align="center"><i>"Sorry, wish we could go to the moon together."</i><h6>
+<h6 align="center"><i>"If we have to die, we’ll live each day without regrets—always smiling in the face of death. That was our one and only form of resistance." ― Asato Asato, "86: Eighty-Six"</i><h6>
 
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=RedBedHed.RedBedHed&logoColor=white&color=2bbc8a" />
