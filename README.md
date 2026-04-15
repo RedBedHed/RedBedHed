@@ -1,4 +1,4 @@
-![Header](banner.png)
+![Header](banner.jpg)
 
 <h6 align="center"><i>"If we have to die, we’ll live each day without regrets—always smiling in the face of death. That was our one and only form of resistance." ― Asato Asato, "86: Eighty-Six"</i><h6>
 
