@@ -30,6 +30,8 @@
 #### 📫 Reach Me At: evcmoore@gmail.com
 #### 👾 Pronouns: She/Her
 #### 🌐 Personal Blog: [Ellie Was AI Generated](https://www.ellie-was-ai-generated.net)
+#### 🍂 Favorite Season: Fall
+#### ⚡ Interests: Artificial Intelligence, Data Structures, Low-Level Programming, Algorithms, Math, Design Patterns
 #### 💖 Favorite Media (That I can currently think of...)
 | 🍥 Anime | ✍️ Other Animations | 📖 Books | 📺 Shows | 🎞️ Movies | 🎮 Games |
 |---|---|---|---|---|---|
@@ -46,8 +48,7 @@
 | Ranma 1/2                |                  |                        |                            |                   |                       |
 | Anything Ghibli          |                  |                        |                            |                   |                       |
 |...                       |                  |                        |                            |                   |                       |
-#### 🍂 Favorite Season: Fall
-#### ⚡ Interests: Artificial Intelligence, Data Structures, Low-Level Programming, Algorithms, Math, Design Patterns
+
 #### (I dump lots of code on here... Most of it is pretty bad... Read at your own risk lol)
 
 <h1 align="center" id="statistics"><strong>📈 Statistics 📈</strong></h1>
