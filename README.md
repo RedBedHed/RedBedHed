@@ -29,6 +29,7 @@
 * *M.S. Computer Science - Georgia Tech - In progress - August 2024*
 #### 📫 Reach Me At: evcmoore@gmail.com
 #### 👾 Pronouns: She/Her
+#### 🌐 Personal Blog: [Ellie Was AI Generated](https://www.ellie-was-ai-generated.net)
 #### 💖 Favorite Media (That I can currently think of...)
 | 🍥 Anime | ✍️ Other Animations | 📖 Books | 📺 Shows | 🎞️ Movies | 🎮 Games |
 |---|---|---|---|---|---|
