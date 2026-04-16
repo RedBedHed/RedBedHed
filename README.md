@@ -38,11 +38,11 @@
 | Stein's;Gate             | Arcane           | Sunrise on the Reaping | Andor                      | Arrival           | Cyberpunk 2077        |
 | Cyberpunk: Edgerunners   | Blue Eye Samurai | The Dark Forest        | Westworld (Season 1)       | Gravity           | The Last of Us Part 2 |
 | 86 Eighty-Six            | X-Men '97        | Death's End            | The Haunting of Hill House | Inception         | Portal 2              |
-| Cowboy Bebop             | ...              | Lord of the Rings      | ...                        | Interstellar      | ...                   |
-| Neon Genesis Evangelion  |                  | ...                    |                            | Lord of the Rings |                       |
-| Violet Evergarden        |                  |                        |                            | ...               |                       |
-| Frieren                  |                  |                        |                            |                   |                       |
-| Madoka Magica            |                  |                        |                            |                   |                       |
+| Cowboy Bebop             | ...              | Lord of the Rings      | The Good Place             | Interstellar      | ...                   |
+| Neon Genesis Evangelion  |                  | ...                    | Parks and Recreation       | Lord of the Rings |                       |
+| Violet Evergarden        |                  |                        | Severance                  | ...               |                       |
+| Frieren                  |                  |                        | Pluribus                   |                   |                       |
+| Madoka Magica            |                  |                        | ...                        |                   |                       |
 | Death Parade             |                  |                        |                            |                   |                       |
 | Samurai Champloo         |                  |                        |                            |                   |                       |
 | Ranma 1/2                |                  |                        |                            |                   |                       |
