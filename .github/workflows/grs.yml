@@ -31,7 +31,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: homura
-          options: /pin/username=${{ github.repository_owner }}&repo=Homura&theme=tokyonight&show_icons=true
+          options: /username=${{ github.repository_owner }}&repo=Homura&theme=tokyonight&show_icons=true
           path: profile/homura.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -39,7 +39,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: blipsort
-          options: /pin/username=${{ github.repository_owner }}&repo=blipsort&theme=tokyonight&show_icons=true
+          options: /username=${{ github.repository_owner }}&repo=blipsort&theme=tokyonight&show_icons=true
           path: profile/blipsort.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -47,7 +47,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: boic
-          options: /pin/username=${{ github.repository_owner }}&repo=boic-v1.0&theme=tokyonight&show_icons=true
+          options: /username=${{ github.repository_owner }}&repo=boic-v1.0&theme=tokyonight&show_icons=true
           path: profile/boic.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -55,7 +55,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: x86-TicTacToe
-          options: /pin/username=${{ github.repository_owner }}&repo=x86-TicTacToe&theme=tokyonight&show_icons=true
+          options: /username=${{ github.repository_owner }}&repo=x86-TicTacToe&theme=tokyonight&show_icons=true
           path: profile/x86-TicTacToe.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -63,7 +63,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: SudokuGen
-          options: /pin/username=${{ github.repository_owner }}&repo=SudokuGen&theme=tokyonight&show_icons=true
+          options: /username=${{ github.repository_owner }}&repo=SudokuGen&theme=tokyonight&show_icons=true
           path: profile/SudokuGen.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -71,7 +71,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: VibeChecker
-          options: /pin/username=${{ github.repository_owner }}&repo=VibeChecker&theme=tokyonight&show_icons=true
+          options: /username=${{ github.repository_owner }}&repo=VibeChecker&theme=tokyonight&show_icons=true
           path: profile/VibeChecker.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -79,7 +79,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: DL_HelloWorld
-          options: /pin/username=${{ github.repository_owner }}&repo=DL_HelloWorld&theme=tokyonight&show_icons=true
+          options: /username=${{ github.repository_owner }}&repo=DL_HelloWorld&theme=tokyonight&show_icons=true
           path: profile/DL_HelloWorld.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           
