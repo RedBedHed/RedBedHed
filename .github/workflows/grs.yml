@@ -1,0 +1,92 @@
+name: Update README cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&theme=tokyonight&show_icons=true
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top langs card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: /top-langs/username=${{ github.repository_owner }}&theme=tokyonight&show_icons=true
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate homura card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: homura
+          options: /top-langs/username=${{ github.repository_owner }}&repo=Homura&theme=tokyonight&show_icons=true
+          path: profile/homura.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate blipsort card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: blipsort
+          options: /top-langs/username=${{ github.repository_owner }}&repo=blipsort&theme=tokyonight&show_icons=true
+          path: profile/blipsort.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate boic-v1.0 card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: boic
+          options: /top-langs/username=${{ github.repository_owner }}&repo=boic-v1.0&theme=tokyonight&show_icons=true
+          path: profile/boic.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate x86-TicTacToe card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: x86-TicTacToe
+          options: /top-langs/username=${{ github.repository_owner }}&repo=x86-TicTacToe&theme=tokyonight&show_icons=true
+          path: profile/x86-TicTacToe.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate SudokuGen card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: SudokuGen
+          options: /top-langs/username=${{ github.repository_owner }}&repo=SudokuGen&theme=tokyonight&show_icons=true
+          path: profile/SudokuGen.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate VibeChecker card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: VibeChecker
+          options: /top-langs/username=${{ github.repository_owner }}&repo=VibeChecker&theme=tokyonight&show_icons=true
+          path: profile/VibeChecker.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate DL_HelloWorld card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: DL_HelloWorld
+          options: /top-langs/username=${{ github.repository_owner }}&repo=DL_HelloWorld&theme=tokyonight&show_icons=true
+          path: profile/DL_HelloWorld.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update README cards" || exit 0
+          git push
