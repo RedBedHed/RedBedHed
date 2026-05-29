@@ -54,43 +54,37 @@
 <h1 align="center" id="statistics"><strong>📈 Statistics 📈</strong></h1>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedBedHed&theme=tokyonight" />
+ <img src="./profile/top-langs.svg" />
   <br/>
- <img src="https://github-readme-stats.vercel.app/api?username=RedBedHed&show_icons=true&theme=tokyonight" />
+ <img src="./profile/stats.svg" />
 </p>
 
 <h1 align="center" id="pins"><strong>📌 Pins 📌</strong></h1>
 
 <p align="center">
  <a href= "https://github.com/RedBedHed/Homura">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=Homura&theme=tokyonight" />
+  <img align="center" src="./profile/Homura.svg" />
  </a>
  <br/>
  <a href="https://github.com/RedBedHed/blipsort">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=blipsort&theme=tokyonight" />
+  <img align="center" src="./profile/blipsort.svg" />
  </a>
  <a href="https://github.com/RedBedHed/boic-v1.0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=boic-v1.0&theme=tokyonight" />
- </a>
- <a href="https://github.com/RedBedHed/Pixel-Art-Time-Waster-9000">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=Pixel-Art-Time-Waster-9000&theme=tokyonight" />
+  <img align="center" src="./profile/boic.svg" />
  </a>
  <a href="https://github.com/RedBedHed/x86-TicTacToe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=x86-TicTacToe&theme=tokyonight" />
+  <img align="center" src="./profile/x86-TicTacToe.svg" />
  </a>
   <a href="https://github.com/RedBedHed/SudokuGen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=SudokuGen&theme=tokyonight" />
+  <img align="center" src="./profile/SudokuGen.svg" />
  </a>
   </a>
   <a href="https://github.com/RedBedHed/VibeChecker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=VibeChecker&theme=tokyonight" />
- </a>
-  <a href="https://github.com/RedBedHed/VibeCheckGUI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=VibeCheckGUI&theme=tokyonight" />
+  <img align="center" src="./profile/VibeChecker.svg" />
  </a>
  </a>
   <a href="https://github.com/RedBedHed/DL_HelloWorld">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBedHed&repo=DL_HelloWorld&theme=tokyonight" />
+  <img align="center" src="./profile/DL_HelloWorld.svg" />
  </a>
 </p>
  
