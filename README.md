@@ -63,7 +63,7 @@
 
 <p align="center">
  <a href= "https://github.com/RedBedHed/Homura">
-  <img align="center" src="./profile/Homura.svg" />
+  <img align="center" src="./profile/homura.svg" />
  </a>
  <br/>
  <a href="https://github.com/RedBedHed/blipsort">
